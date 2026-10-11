@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="162" viewBox="0 0 960 162" role="img" aria-label="Journal API">
+<rect x=".5" y=".5" width="959" height="161" rx="16" fill="#111813" stroke="#303d30"/>
+<rect x="24" y="24" width="4" height="113" rx="2" fill="#f1c58e"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="44" y="43" fill="#f1c58e" font-size="11" letter-spacing="2">04 / SELECTED WORK</text>
+<text x="43" y="81" fill="#f0f5ec" font-size="29" font-weight="700" letter-spacing="-.6">Journal API</text>
+<text x="44" y="108" fill="#b2bfae" font-size="15">Personal entries. Explicit ownership. Sentiment trends.</text>
+<text x="44" y="137" fill="#f1c58e" font-size="12" letter-spacing=".4">JAVA 17  /  SPRING SECURITY  /  MONGODB  /  JWT</text>
+<text x="920" y="42" text-anchor="end" fill="#f1c58e" font-size="25">↗</text></g>
+<g transform="translate(817 88)" stroke="#f1c58e" fill="none" stroke-width="1.5"><rect x="-37" y="-42" width="74" height="84" rx="8"/><path d="M-23-42V42M-12-20H22M-12-7H22M-12 6H12"/><rect x="17" y="13" width="34" height="28" rx="6" fill="#111813"/><path d="M24 13V7A10 10 0 0 1 44 7V13"/><circle cx="34" cy="26" r="2" fill="#f1c58e"/></g></svg>
