@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="162" viewBox="0 0 960 162" role="img" aria-label="AI Agent System">
+<rect x=".5" y=".5" width="959" height="161" rx="16" fill="#111813" stroke="#303d30"/>
+<rect x="24" y="24" width="4" height="113" rx="2" fill="#9fd6ea"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="44" y="43" fill="#9fd6ea" font-size="11" letter-spacing="2">02 / SELECTED WORK</text>
+<text x="43" y="81" fill="#f0f5ec" font-size="29" font-weight="700" letter-spacing="-.6">AI Agent System</text>
+<text x="44" y="108" fill="#b2bfae" font-size="15">Java tools. Conversational memory. Streaming responses.</text>
+<text x="44" y="137" fill="#9fd6ea" font-size="12" letter-spacing=".4">JAVA 21  /  SPRING AI  /  SSE  /  THYMELEAF</text>
+<text x="920" y="42" text-anchor="end" fill="#9fd6ea" font-size="25">↗</text></g>
+<g transform="translate(817 88)" stroke="#9fd6ea" fill="none" stroke-width="1.5"><rect x="-51" y="-34" width="103" height="65" rx="12"/><path d="M-31-12H-5M-31 0H20M-31 12H8"/><circle cx="36" cy="24" r="20" fill="#132022"/><path d="M29 24L34 29L44 18"/></g></svg>

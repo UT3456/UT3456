@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Custom artwork lives in this repository. No external stats services required. -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Utkarsh Singh — Built from the backend up. Java, Spring Boot, microservices and applied AI." />
+</p>
 
-<!--
-**UT3456/UT3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-singh-ut258"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/UT3456/portfolio"><strong>Portfolio source ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#selected-work"><strong>Selected work ↓</strong></a>
+</p>
 
-Here are some ideas to get you started:
+I'm **Utkarsh**, a Java and Spring Boot developer with hands-on full-stack internship experience at **Cognizant** and a **2026 Electronics & Communication** background. I enjoy connecting the pieces behind an application: APIs, access control, service communication, and the interface people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My focus:** backend engineering, microservices, and AI applications that connect language models to Java tools.
+
+## Selected work
+
+<a href="https://github.com/UT3456/claimsinsight">
+  <img src="./assets/claims.svg" width="100%" alt="01 — ClaimInsight360. Spring Boot, React, JWT and WebFlux. Explore the repository." />
+</a>
+
+**[Explore ClaimInsight360 →](https://github.com/UT3456/claimsinsight)**  
+An insurance claims analytics platform with Spring Boot services and a React/TypeScript frontend. My work includes JWT-based authorization, service integration, role-aware interfaces, and distributed tracing.
+
+<a href="https://github.com/UT3456/AI-agent-System">
+  <img src="./assets/agent.svg" width="100%" alt="02 — AI Agent System. Java 21, Spring AI, streaming and conversation memory. Explore the repository." />
+</a>
+
+**[Explore AI Agent System →](https://github.com/UT3456/AI-agent-System)**  
+A multi-domain assistant demonstrating travel and customer-support workflows through Java tool calling. Includes local policy retrieval, conversation memory, and token-by-token streaming with Server-Sent Events.
+
+<a href="https://github.com/UT3456/rate-limiter">
+  <img src="./assets/limiter.svg" width="100%" alt="03 — Spring Boot Rate Limiter. Bucket4j, Caffeine, Micrometer and Docker. Explore the repository." />
+</a>
+
+**[Explore Rate Limiter →](https://github.com/UT3456/rate-limiter)**  
+A token-bucket implementation with global filters and endpoint-specific `@RateLimit` policies. Uses bounded Caffeine storage, structured HTTP 429 responses, and Micrometer/Prometheus metrics. Buckets are local to each application instance.
+
+## The toolkit
+
+| Area | Technologies I work with |
+| :--- | :--- |
+| **Backend** | Java · Spring Boot · REST APIs · Spring Security · JWT |
+| **Services** | Spring Cloud · Eureka · WebFlux · WebClient |
+| **Frontend** | React · TypeScript · Redux Toolkit · HTML/CSS |
+| **Applied AI** | Spring AI · Tool calling · Conversation memory · SSE |
+| **Engineering tools** | Git · Docker · Maven · GitHub Actions |
+| **Observability** | Actuator · Zipkin · Micrometer · Prometheus · SonarQube |
+
+<details>
+<summary><strong>A little more about how I build</strong></summary>
+
+<br />
+
+- **Follow the request.** Understand how data travels from the interface through services and back.
+- **Make boundaries explicit.** Pay attention to authorization, validation, and service responsibilities.
+- **Make behavior visible.** Use logs, metrics, and tracing to understand failures.
+- **Keep learning by building.** Strengthen Java and [data structures & algorithms](https://github.com/UT3456/leetcode), then apply the concepts in projects.
+
+</details>
+
+---
+
+### Let's build something useful.
+
+I'm interested in **graduate and early-career Java, backend, and full-stack opportunities** where I can contribute, learn through code reviews, and take on harder engineering problems.
+
+**[Connect with me on LinkedIn ↗](https://www.linkedin.com/in/utkarsh-singh-ut258)**
+
+<sub>Java at the core. Curiosity in every layer.</sub>
