@@ -38,11 +38,27 @@ A multi-domain assistant demonstrating travel and customer-support workflows thr
 **[Explore Rate Limiter →](https://github.com/UT3456/rate-limiter)**  
 A token-bucket implementation with global filters and endpoint-specific `@RateLimit` policies. Uses bounded Caffeine storage, structured HTTP 429 responses, and Micrometer/Prometheus metrics. Buckets are local to each application instance.
 
+<a href="https://github.com/UT258/journalApp">
+  <img src="./assets/journal.svg" width="100%" alt="04 — Journal API. Java, Spring Security, MongoDB and JWT. Explore the repository." />
+</a>
+
+**[Explore Journal API →](https://github.com/UT258/journalApp)**  
+A private journaling REST API with JWT authentication, per-user entry ownership checks, MongoDB persistence, and tag-based filtering. Includes lightweight, lexicon-based sentiment scoring and trend summaries.
+
+## Beyond the backend
+
+**[Soil Monitoring & Early Alerts →](https://github.com/UT258/soil-moisture-v3)**  
+An academic team project connecting my electronics background with full-stack development: a React dashboard and Express/MongoDB backend for sensor readings, maps, and alerts. ML prediction integration is planned; the current prediction endpoint is a placeholder.
+
+**[Java problem-solving →](https://github.com/UT258/javaDsa)** · **[LeetCode practice →](https://github.com/UT258/leetcode-Question)**  
+The fundamentals behind the projects: practicing Java, data structures, and algorithms.
+
 ## The toolkit
 
 | Area | Technologies I work with |
 | :--- | :--- |
 | **Backend** | Java · Spring Boot · REST APIs · Spring Security · JWT |
+| **Data** | MySQL · MongoDB · Spring Data |
 | **Services** | Spring Cloud · Eureka · WebFlux · WebClient |
 | **Frontend** | React · TypeScript · Redux Toolkit · HTML/CSS |
 | **Applied AI** | Spring AI · Tool calling · Conversation memory · SSE |
