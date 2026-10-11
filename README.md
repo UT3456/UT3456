@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=UT3456&color=76994d&style=flat-square&label=Profile+views" alt="Profile view counter" />
   <a href="https://github.com/UT3456?tab=followers"><img src="https://img.shields.io/github/followers/UT3456?label=Followers&style=flat-square&color=c3f584&labelColor=111813" alt="GitHub followers" /></a>
   <a href="https://github.com/UT3456?tab=repositories"><img src="https://img.shields.io/github/stars/UT3456?label=Repository+stars&style=flat-square&color=f1c58e&labelColor=111813" alt="Public repository stars" /></a>
-  <a href="https://leetcode.com/u/utkarhsingh23/"><img src="https://img.shields.io/badge/LeetCode-utkarhsingh23-f1c58e?style=flat-square&logo=leetcode&logoColor=f1c58e&labelColor=111813" alt="LeetCode profile: utkarhsingh23" /></a>
+  <a href="https://leetcode.com/u/utkarhsingh23/"><img src="https://img.shields.io/badge/LeetCode-Knight-f1c58e?style=flat-square&logo=leetcode&logoColor=f1c58e&labelColor=111813" alt="LeetCode Knight — utkarhsingh23" /></a>
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@
 
 I'm **Utkarsh Singh**, a **Java & Spring Boot developer** building backend services, full-stack applications, and AI assistants.
 
+- **Competitive programming:** [LeetCode Knight](https://leetcode.com/u/utkarhsingh23/) · Java & DSA.
 - **Experience:** hands-on Java full-stack internship work at Cognizant.
 - **Background:** Electronics & Communication · Class of 2026 · Bengaluru, India.
 - **Interests:** service architecture, API security, observability, and Java tool calling.
@@ -110,7 +111,9 @@ Tool-connected assistants, local policy retrieval, and conversational interfaces
 
 ## Coding dashboard
 
-### LeetCode · practice in progress
+### LeetCode · Knight
+
+**Earned the Knight badge on LeetCode.** I practice data structures and algorithms in Java and participate in programming contests.
 <p align="center">
   <a href="https://leetcode.com/u/utkarhsingh23/">
     <img src="https://leetcard.jacoblin.cool/utkarhsingh23?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16" width="600" alt="Live LeetCode solved-problem statistics and submission heatmap for utkarhsingh23" />
