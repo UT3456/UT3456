@@ -11,9 +11,14 @@
   <a href="#selected-work"><strong>Selected work ↓</strong></a>
 </p>
 
-I'm **Utkarsh**, a Java and Spring Boot developer with hands-on full-stack internship experience at **Cognizant** and a **2026 Electronics & Communication** background. I enjoy connecting the pieces behind an application: APIs, access control, service communication, and the interface people actually use.
+I'm **Utkarsh Singh**, a **Java & Spring Boot developer** building backend services, full-stack applications, and AI assistants.
 
-**My focus:** backend engineering, microservices, and AI applications that connect language models to Java tools.
+- **Experience:** hands-on Java full-stack internship work at Cognizant.
+- **Background:** Electronics & Communication · Class of 2026 · Bengaluru, India.
+- **Interests:** service architecture, API security, observability, and Java tool calling.
+
+**Start with what interests you:**  
+[Microservices](https://github.com/UT3456/claimsinsight) · [AI applications](https://github.com/UT3456/AI-agent-System) · [API resilience](https://github.com/UT3456/rate-limiter) · [Spring Security & MongoDB](https://github.com/UT258/journalApp)
 
 ## Selected work
 
@@ -48,7 +53,7 @@ A private journaling REST API with JWT authentication, per-user entry ownership 
 ## Beyond the backend
 
 **[Soil Monitoring & Early Alerts →](https://github.com/UT258/soil-moisture-v3)**  
-An academic team project connecting my electronics background with full-stack development: a React dashboard and Express/MongoDB backend for sensor readings, maps, and alerts. ML prediction integration is planned; the current prediction endpoint is a placeholder.
+An academic team project connecting my electronics background with full-stack development: a React dashboard and Express/MongoDB backend for sensor readings, maps, and alerts. **In progress:** ML prediction integration.
 
 **[Java problem-solving →](https://github.com/UT258/javaDsa)** · **[LeetCode practice →](https://github.com/UT258/leetcode-Question)**  
 The fundamentals behind the projects: practicing Java, data structures, and algorithms.
@@ -65,17 +70,7 @@ The fundamentals behind the projects: practicing Java, data structures, and algo
 | **Engineering tools** | Git · Docker · Maven · GitHub Actions |
 | **Observability** | Actuator · Zipkin · Micrometer · Prometheus · SonarQube |
 
-<details>
-<summary><strong>A little more about how I build</strong></summary>
 
-<br />
-
-- **Follow the request.** Understand how data travels from the interface through services and back.
-- **Make boundaries explicit.** Pay attention to authorization, validation, and service responsibilities.
-- **Make behavior visible.** Use logs, metrics, and tracing to understand failures.
-- **Keep learning by building.** Strengthen Java and [data structures & algorithms](https://github.com/UT3456/leetcode), then apply the concepts in projects.
-
-</details>
 
 ---
 
